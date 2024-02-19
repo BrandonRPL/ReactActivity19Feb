@@ -1,0 +1,46 @@
+.contenedor-perfil{
+    padding: 10px;
+    display: flex;
+    margin-top: 20px;
+    background-color:bisque;
+    align-content: center;
+    margin-left: 30%;
+    margin-right: 29%;
+    border-radius: 51px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contenedor-botones{
+    display: flex;
+    margin: 10%;   
+}
+.contenedor-texto-perfil{
+    display: flex;
+    flex-direction: column;
+}
+.imagen-perfil{
+    margin-top: 5%;
+    height: 20%;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+.botonLinked{
+    border-radius: 10px; 
+    height: 40px;
+    margin-right: 5px;
+    background-color: aquamarine;
+}
+.botonYou{
+    border-radius: 10px;
+    height: 40px;
+    margin-right: 5px;
+    background-color: red;
+}
+.botonWeb{
+    border-radius: 10px;
+    height: 40px;
+    margin-right: 5px;
+    background-color: olive;
+}
+
